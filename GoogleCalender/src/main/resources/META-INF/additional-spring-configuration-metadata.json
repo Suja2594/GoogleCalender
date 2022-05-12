@@ -1,0 +1,97 @@
+{"properties": [
+  {
+    "name": "google.secret.key.path",
+    "type": "java.lang.String",
+    "description": "A description for 'google.secret.key.path'"
+  },
+  {
+    "name": "google.oauth.callback.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.oauth.callback.uri'"
+  },
+  {
+    "name": "google.credentials.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'google.credentials.folder.path'"
+  },
+  {
+    "name": "google.client.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.client-id'"
+  },
+  {
+    "name": "google.client.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.client-secret'"
+  },
+  {
+    "name": "google.oauth.client_creditionals",
+    "type": "java.lang.String",
+    "description": "A description for 'google.oauth.client_creditionals'"
+  },
+  {
+    "name": "google.oauth.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'google.oauth.clientId'"
+  },
+  {
+    "name": "googlr.oauth.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'googlr.oauth.clientSecret'"
+  },
+  {
+    "name": "googlr.oauth.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'googlr.oauth.clientSecret'"
+  },
+  {
+    "name": "googlr.client.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'googlr.client.clientSecret'"
+  },
+  {
+    "name": "googlr.client.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'googlr.client.clientSecret'"
+  },
+  {
+    "name": "google.client.access-token-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.access-token-uri'"
+  },
+  {
+    "name": "google.client.user-authorization-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.user-authorization-uri'"
+  },
+  {
+    "name": "google.client.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.scope'"
+  },
+  {
+    "name": "google.resource.user-info-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.resource.user-info-uri'"
+  },
+  {
+    "name": "google.resource.prefer-token-info",
+    "type": "java.lang.String",
+    "description": "A description for 'google.resource.prefer-token-info'"
+  },
+  {
+    "name": "google.client.redirectUri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.redirectUri'"
+  },
+  {
+    "name": "google.client.client-authentication-scheme",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.client-authentication-scheme'"
+  },
+  {
+    "name": "google.client.redirect-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.redirect-uri'"
+  }
+]}
